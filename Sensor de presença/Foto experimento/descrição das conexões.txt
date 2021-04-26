@@ -1,0 +1,2 @@
+O pino de saida (pino do meio) do sensor pir foi conectado na entrada digital do arduino ethernet, 
+o pino vcc do sensor foi conectado no pino de 5 volts do arduino e o pino do terra do sensor no pino do terra do arduino.
